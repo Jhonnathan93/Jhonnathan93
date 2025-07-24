@@ -22,16 +22,16 @@
 ---
 
 <!-- Intro -->
-- 🔭 I’m currently learning **Spring Boot** and **ReactJS**
+- 🔭 I’m currently learning **Tailwind** and **ReactJS**
 - 💬 Ask me about **Python, Vue.js and AWS**
 - 📫 Feel free to reach me at **jhonnathanocampo118@gmail.com**
-- 🚀 Fun Fact: I like playing videogames, especially Pokémon
+- 🚀 Fun Fact: I like playing videogames, especially **Pokémon**
 
 ---
 
 <!-- Experience -->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
     <summary><h2 style="display: inline-block">💼 Experience</h2></summary>
   </ul>
 </div>
@@ -70,16 +70,57 @@
 
 <!-- Technologies -->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
     <summary><h2 style="display: inline-block">🧠 Technologies That I Know</h2></summary>
   </ul>
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,docker,express,github,html,java,js,ts,nginx,mongodb,mysql,nextjs,nodejs,postman,py,vue,django,vscode,php,laravel,spring,fastapi,postgresql,flask,nginx,githubactions&perline=14" />
-  </a>
+<!-- Programming Languages -->
+<h3">Programming Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,php,py,ts&perline=14" />
 </p>
+
+---
+
+<!-- Frontend Development -->
+<h3>Frontend Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress,nextjs,react,vue&perline=14" />
+</p>
+
+---
+
+<!-- Backend Development -->
+<h3>Backend Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=django,express,fastapi,flask,nodejs,spring,laravel&perline=14" />
+</p>
+
+---
+
+<!-- Databases -->
+<h3>Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=14" />
+</p>
+
+---
+
+<!-- DevOps / Cloud -->
+<h3>DevOps & Cloud</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,gcp,githubactions,nginx,rabbitmq&perline=14" />
+</p>
+
+---
+
+<!-- Tools & Frameworks -->
+<h3>Tools & Frameworks</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=14" />
+</p>
+
 
 ---
 
@@ -94,7 +135,7 @@
   <a href="https://www.linkedin.com/in/jhonnathan-ocampo" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="https://www.instagram.com/" target="blank">
+  <a href="https://www.instagram.com/jhonnathan.ocampo/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
   </a>
 </p>

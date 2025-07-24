@@ -76,7 +76,7 @@
 </div>
 
 <!-- Programming Languages -->
-<h3">Programming Languages</h3>
+<h3>Programming Languages</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,php,py,ts&perline=14" />
 </p>

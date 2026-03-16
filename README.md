@@ -53,16 +53,20 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jhonnathan93&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonnathan93&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnathan93&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-  </td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnathan93&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+</td>
 </tr>
 </table>
 </p>
 
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jhonnathan93&theme=vue-dark&hide_border=true"/>
+</p>
 ---
 
 <!-- Technologies -->

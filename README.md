@@ -49,23 +49,15 @@
 ---
 
 <!-- Stats & Languages -->
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonnathan93&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-</td>
-
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnathan93&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-</td>
-</tr>
-</table>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhonnathan93&show_icons=true&hide_border=true&bg_color=273849&title_color=ffffff&icon_color=ffffff&text_color=ffffff" width="47%" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonnathan93&layout=compact&hide_border=true&bg_color=273849&title_color=ffffff&text_color=ffffff" width="38%" />
+</div>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jhonnathan93&theme=vue-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=jhonnathan93&hide_border=true&background=273849&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"/>
 </p>
 ---
 

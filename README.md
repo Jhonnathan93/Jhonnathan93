@@ -7,7 +7,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Software Engineering Student at EAFIT University | Software Development</h2></summary>
+    <summary><h2 style="display: inline-block">Software Engineer | Backend Developer | Python • FastAPI • Django • AWS</h2></summary>
   </ul>
 </div>
 
@@ -15,17 +15,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- About Me -->
-🎓 I am a Software Engineering student at EAFIT University with practical knowledge in web development, API design, and software architecture. I specialize in frameworks like **Django** and **Vue.js**.
+I'm a **Software Engineer** passionate about building scalable backend applications, cloud solutions, and distributed systems.
 
-🌍 I'm passionate about volunteering and supporting underserved communities, combining my technical skills with a desire to make a positive impact.
+I have professional experience developing REST APIs, full-stack applications, and data processing solutions using technologies such as **Python, FastAPI, Django, AWS, Docker, React, TypeScript, and Vue.js**. Throughout my career, I've worked on software modernization, process automation, and cloud-native applications while collaborating in Agile teams.
+
+Beyond software development, I'm passionate about volunteering and supporting underserved communities, combining technology with social impact.
 
 ---
 
 <!-- Intro -->
-- 🔭 I’m currently learning **Tailwind** and **ReactJS**
-- 💬 Ask me about **Python, Vue.js and AWS**
-- 📫 Feel free to reach me at **jhonnathanocampo118@gmail.com**
-- 🚀 Fun Fact: I like playing videogames, especially **Pokémon**
+- 🌱 Currently learning **ROR** and **Angular**.
+- 💬 Ask me about **Python, FastAPI, Django, AWS, Docker, REST APIs, and Backend Development**
+- 📫 Reach me at **jhonnathanocampo118@gmail.com**
+- ⚡ Fun fact: I enjoy hiking, Ultimate Frisbee, Pokémon, and exploring new technologies.
 
 ---
 
@@ -35,6 +37,11 @@
     <summary><h2 style="display: inline-block">💼 Experience</h2></summary>
   </ul>
 </div>
+
+- Software Engineering Intern | ISA Energía Colombia (Jul 2025 – Jan 2026)
+  - Developed an application that automated SAP data ingestion.
+  - Designed ETL pipelines for cleaning, transforming, and visualizing operational data.
+  - Modernized and maintained legacy applications to improve stability and maintainability.
 
 - **Junior Software Developer** | Universidad EAFIT (Jul 2024 – Jun 2025)
   - Contributed to full-stack development for urban planning platforms.
@@ -92,10 +99,18 @@
 
 ---
 
+<!-- Frontend -->
+<h3>Frontend</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=vue,react,tailwind,html,css&perline=10" />
+</p>
+
+---
+
 <!-- Databases -->
 <h3>Databases</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=14" />
+ <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=10" />
 </p>
 
 ---
@@ -103,7 +118,7 @@
 <!-- DevOps / Cloud -->
 <h3>DevOps & Cloud</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,gcp,githubactions,nginx,rabbitmq&perline=14" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,rabbitmq,nginx&perline=10" />
 </p>
 
 ---

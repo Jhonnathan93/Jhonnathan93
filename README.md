@@ -66,12 +66,12 @@ Beyond software development, I'm passionate about volunteering and supporting un
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jhonnathan93&hide_border=true&background=273849&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"/>
 </p>
----
+
 
 <!-- Technologies -->
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block">🧠 Technologies That I Know</h2></summary>
+    <summary><h2 style="display: inline-block">Tech Stack</h2></summary>
   </ul>
 </div>
 
